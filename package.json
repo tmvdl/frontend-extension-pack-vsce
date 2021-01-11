@@ -25,6 +25,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "loiane.angular-extension-pack"
   ],
   "keywords": [
     "Front-End",
