@@ -1,1 +1,1 @@
-# frontend-extension-pack-vsce
+# Visual Studio Code Front-End Extension Pack
