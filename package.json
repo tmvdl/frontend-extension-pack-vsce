@@ -1,0 +1,15 @@
+{
+  "name": "frontend-extension-pack-vsce",
+  "version": "0.1.0",
+  "description": "Visual Studio Code Front-End Extension Pack",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmvdl/frontend-extension-pack-vsce.git"
+  },
+  "author": "Tarsis de Lima (https://github.com/tmvdl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmvdl/frontend-extension-pack-vsce/issues"
+  },
+  "homepage": "https://github.com/tmvdl/frontend-extension-pack-vsce#readme"
+}
