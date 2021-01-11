@@ -1,7 +1,7 @@
 {
   "name": "frontend-extension-pack-vsce",
   "displayName": "Visual Studio Code Front-End Extension Pack",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Visual Studio Code Front-End Extension Pack",
   "publisher": "tmvdl",
   "icon": "frontend-icon.png",
