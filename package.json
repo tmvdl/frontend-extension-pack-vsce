@@ -2,6 +2,12 @@
   "name": "frontend-extension-pack-vsce",
   "version": "0.1.0",
   "description": "Visual Studio Code Front-End Extension Pack",
+  "publisher": "tmvdl",
+  "icon": "frontend-icon.png",
+  "galleryBanner": {
+    "color": "#0273D4",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tmvdl/frontend-extension-pack-vsce.git"
@@ -11,5 +17,20 @@
   "bugs": {
     "url": "https://github.com/tmvdl/frontend-extension-pack-vsce/issues"
   },
-  "homepage": "https://github.com/tmvdl/frontend-extension-pack-vsce#readme"
+  "homepage": "https://github.com/tmvdl/frontend-extension-pack-vsce#readme",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+  ],
+  "keywords": [
+    "Front-End",
+    "Angular",
+    "Angular 10",
+    "TypeScript",
+    "JavaScript"
+  ]
 }
