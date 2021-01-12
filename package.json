@@ -26,7 +26,8 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "publisher.extensionName"
+    "publisher.extensionName",
+    "angular.ng-template"
   ],
   "keywords": [
     "Front-End",
