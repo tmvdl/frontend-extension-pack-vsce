@@ -29,7 +29,8 @@
     "publisher.extensionName",
     "angular.ng-template",
     "esbenp.prettier-vscode",
-    "dbaeumer.vscode-eslint"
+    "dbaeumer.vscode-eslint",
+    "VisualStudioExptTeam.vscodeintellicode"
   ],
   "keywords": [
     "Front-End",
