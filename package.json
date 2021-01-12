@@ -33,7 +33,8 @@
     "VisualStudioExptTeam.vscodeintellicode",
     "ms-vscode.vscode-typescript-tslint-plugin",
     "ms-vscode.vscode-typescript-next",
-    "HookyQR.beautify"
+    "HookyQR.beautify",
+    "ecmel.vscode-html-css"
   ],
   "keywords": [
     "Front-End",
