@@ -37,7 +37,8 @@
     "ecmel.vscode-html-css",
     "xabikos.JavaScriptSnippets",
     "abusaidm.html-snippets",
-    "formulahendry.auto-rename-tag"
+    "formulahendry.auto-rename-tag",
+    "christian-kohler.path-intellisense"
   ],
   "keywords": [
     "Front-End",
