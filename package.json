@@ -28,7 +28,8 @@
   "extensionPack": [
     "publisher.extensionName",
     "angular.ng-template",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint"
   ],
   "keywords": [
     "Front-End",
