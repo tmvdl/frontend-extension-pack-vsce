@@ -36,7 +36,8 @@
     "HookyQR.beautify",
     "ecmel.vscode-html-css",
     "xabikos.JavaScriptSnippets",
-    "abusaidm.html-snippets"
+    "abusaidm.html-snippets",
+    "formulahendry.auto-rename-tag"
   ],
   "keywords": [
     "Front-End",
