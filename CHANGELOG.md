@@ -2,6 +2,10 @@
 
 All notable changes to the "frontend-extension-pack-vsce" extension pack will be documented in this file.
 
+## 0.3.0
+
+* Removed Angular Language Service Extension
+
 ## 0.2.0
 
 * Added Angular Language Service Extension
