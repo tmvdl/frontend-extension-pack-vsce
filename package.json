@@ -27,7 +27,6 @@
   ],
   "extensionPack": [
     "publisher.extensionName",
-    "angular.ng-template",
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
     "VisualStudioExptTeam.vscodeintellicode",
